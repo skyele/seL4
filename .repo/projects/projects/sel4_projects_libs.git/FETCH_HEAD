@@ -1,0 +1,6 @@
+0a5e476e26fa03c3baa09acfee228ab7b4e91f18		branch '10.0.x-compatible' of https://github.com/sel4proj/sel4_projects_libs
+f594a119acb996c5fa07ecbf1678460b40395127		branch '10.1.x-compatible' of https://github.com/sel4proj/sel4_projects_libs
+802f572022372b348bb233cf8047075b6f80038e		branch '8.0.x-compatible' of https://github.com/sel4proj/sel4_projects_libs
+0a5e476e26fa03c3baa09acfee228ab7b4e91f18		branch '9.0.x-compatible' of https://github.com/sel4proj/sel4_projects_libs
+602254368e96e80dc8b1382341c335fa6a5e727c		branch 'master' of https://github.com/sel4proj/sel4_projects_libs
+f9327377f9e2defcefae31c69b542af6e9081be0		branch 'xu4_vmm_wip' of https://github.com/sel4proj/sel4_projects_libs

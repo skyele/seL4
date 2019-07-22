@@ -1,0 +1,1 @@
+0000000000000000000000000000000000000000 802f572022372b348bb233cf8047075b6f80038e Xu Tianqiang <2286455782@qq.com> 1563767309 +0800	fetch --progress sel4proj --tags +refs/heads/*:refs/remotes/sel4proj/* +refs/heads/master:refs/remotes/sel4proj/master: storing head

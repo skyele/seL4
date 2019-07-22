@@ -1,0 +1,1 @@
+0000000000000000000000000000000000000000 a1bcdcb74e17f93d66c94cd6ec537551dc7e142f Xu Tianqiang <2286455782@qq.com> 1563767307 +0800	fetch --progress sel4proj --tags +refs/heads/*:refs/remotes/sel4proj/* +refs/heads/fix-32bit:refs/remotes/sel4proj/fix-32bit: storing head

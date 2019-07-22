@@ -1,0 +1,1 @@
+0000000000000000000000000000000000000000 2c4524ce84652960cda127a8b0ae6690022988ee Xu Tianqiang <2286455782@qq.com> 1563767304 +0800	fetch --progress seL4 --tags +refs/heads/*:refs/remotes/seL4/* +refs/heads/master:refs/remotes/seL4/master: storing head

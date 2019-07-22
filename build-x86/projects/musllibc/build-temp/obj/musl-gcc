@@ -1,0 +1,2 @@
+#!/bin/sh
+exec "${REALGCC:-gcc}" "$@" -specs "/host/build-x86/projects/musllibc/build-temp/stage/lib/musl-gcc.specs"
